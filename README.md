@@ -6,7 +6,7 @@ Our group convenes to explore cutting-edge research, discuss pivotal papers, and
 The events will normally take place every three weeks from 4 PM to 5 PM, on Wednesdays, at Ada Lovelace (108) meeting room.
 
 We welcome master's students, Ph.D. students, and academic staff from various groups and departments who share a genuine interest in advancing their understanding of this dynamic field. 
-Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to deliver a presentation with or without a partner.
+Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose and deliver a presentation. You can do it either with or without a partner.
 
 
 ## Upcoming presentations
