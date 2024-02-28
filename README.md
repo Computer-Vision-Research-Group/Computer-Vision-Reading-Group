@@ -13,7 +13,7 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
 | TBD | Farheen Ramzan & Sijie Li | 13th March, 2024, 4pm-5pm / Ada Lovelace |  |
-| TBD | TBD | 3rd April, 2024, 4pm-5pm / Ada Lovelace |  |
+| TBD | Xiaoqi Zhuang | 3rd April, 2024, 4pm-5pm / Ada Lovelace |  |
 | TBD | TBD | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |
 
 ## Previous presentations
