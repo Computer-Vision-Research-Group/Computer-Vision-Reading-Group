@@ -12,8 +12,8 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 ## Upcoming presentations
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-| TBD | Farheen Ramzan & Sijie Li | 13th March, 2024, 4pm-5pm / Ada Lovelace |  |
-| TBD | Xiaoqi Zhuang | 3rd April, 2024, 4pm-5pm / Ada Lovelace |  |
+| Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. ([link](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)) <br> Peebles, William, and Saining Xie. "Scalable diffusion models with transformers." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023. ([link](https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf))| Farheen Ramzan & Sijie Li | 13th March, 2024, 4pm-5pm / Ada Lovelace |  |
+| TBD | Xiaoqi Zhuang | 3rd April, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |
 
 ## Previous presentations
