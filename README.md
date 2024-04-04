@@ -14,7 +14,7 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 ## Upcoming presentations
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-| TBD | Xiaoqi Zhuang | 10th April, 2024, 4pm-5pm / Ada Lovelace |  |r
+| Chefer, Hila, et al. "**Attend-and-excite: Attention-based semantic guidance for text-to-image diffusion models.**" ACM Transactions on Graphics (TOG) 42.4 (2023) ([link](https://arxiv.org/abs/2301.13826)) <br> Feng, Weixi, et al. "**Training-free structured diffusion guidance for compositional text-to-image synthesis.**" ICLR 2023 ([link](https://openreview.net/forum?id=PUIqjT4rzq7)) <br> Chen, Minghao, Iro Laina, and Andrea Vedaldi. "**Training-free layout control with cross-attention guidance.**" Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2024. ([link](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf))| Xiaoqi Zhuang | 10th April, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |
 
 ## Previous presentations
