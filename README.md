@@ -14,7 +14,6 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 ## Upcoming presentations
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-
 | TBD | Ming He | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 15th May, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 5th June, 2024, 4pm-5pm / Ada Lovelace |  |r
