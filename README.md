@@ -14,7 +14,7 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 ## Upcoming presentations
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-| TBD | Ming He | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |r
+| Shi, Y., Wang, P., Ye, J., Long, M., Li, K. and Yang, X., 2023. **Mvdream: Multi-view diffusion for 3d generation**. arXiv preprint arXiv:2308.16512 ([link](https://arxiv.org/abs/2308.16512)) <br>  Mildenhall, B., Srinivasan, P.P., Tancik, M., Barron, J.T., Ramamoorthi, R. and Ng, R., 2021. **Nerf: Representing scenes as neural radiance fields for view synthesis**. Communications of the ACM, 65(1), pp.99-106 ([link](https://arxiv.org/abs/2003.08934)) <br> Poole, B., Jain, A., Barron, J.T. and Mildenhall, B., 2022. **Dreamfusion: Text-to-3d using 2d diffusion**. arXiv preprint arXiv:2209.14988 ([link](https://arxiv.org/abs/2209.14988))| Ming He | 24th April, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 15th May, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 5th June, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 26th June, 2024, 4pm-5pm / Ada Lovelace |  |
