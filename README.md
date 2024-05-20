@@ -14,7 +14,7 @@ Please [email me](mailto:sli256@sheffield.ac.uk) if you are willing to propose a
 ## Upcoming presentations
 | Paper Title (link) | Presenter | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-| TBD | Eleftherios Ioannou | 22nd May, 2024, 4pm-5pm / Ada Lovelace | Previously arranged on 15th May; Postponed to 22nd May. |r
+| Wang, Z., Bovik, A.C., Sheikh, H.R. and Simoncelli, E.P., 2004. **Image Quality Assessment: From Error Visibility to Structural Similarity**. IEEE Transactions on Image Processing ([link](https://ieeexplore.ieee.org/abstract/document/1284395)) <br>  Nilsson, J. and Akenine-Möller, T., 2020. **Understanding SSIM**.  ([link](https://arxiv.org/abs/2006.13846)) <br>  Zhang, R., Isola, P., Efros, A.A., Shechtman, E. and Wang, O., 2018. **The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**. ([link](https://arxiv.org/abs/1801.03924))| Eleftherios Ioannou | 22nd May, 2024, 4pm-5pm / Ada Lovelace | Topic: Image Quality Assessment: Understanding SSIM (and LPIPS) <br> Previously arranged on 15th May; Postponed to 22nd May. |r
 | TBD | TBD | 5th June, 2024, 4pm-5pm / Ada Lovelace |  |r
 | TBD | TBD | 26th June, 2024, 4pm-5pm / Ada Lovelace |  |
 
